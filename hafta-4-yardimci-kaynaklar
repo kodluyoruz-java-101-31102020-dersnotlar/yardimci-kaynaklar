@@ -1,0 +1,47 @@
+General Java I/O Operations
+- File Operations in Java ==> https://www.tutorialspoint.com/java/java_files_io.htm
+- http://tutorials.jenkov.com/java-io/index.html
+
+Java Concurrency and Multithreading Tutorial
+- http://tutorials.jenkov.com/java-concurrency/index.html
+
+SOLID Principles
+- https://www.baeldung.com/solid-principles
+- https://howtodoinjava.com/best-practices/solid-principles/
+- https://docs.microsoft.com/en-us/archive/msdn-magazine/2014/may/csharp-best-practices-dangers-of-violating-solid-principles-in-csharp
+- https://trekhleb.medium.com/solid-principles-around-you-6db2f0e12139
+
+Relational Database Management System & SQL
+- https://www.tutorialspoint.com/sql/sql-rdbms-concepts.htm
+- https://www.sqltutorial.org/
+
+CAP Theorem
+- https://ravindraelicherla.medium.com/cap-theorem-simplified-28499a67eab4
+
+NoSQL
+- https://www.digitalvidya.com/blog/nosql-tutorial/
+- https://www.geeksforgeeks.org/introduction-to-nosql/
+
+MongoDB
+- https://www.tutorialspoint.com/mongodb/index.htm
+- https://www.mongodbtutorial.org/getting-started/
+- https://www.mongodbtutorial.org/mongodb-crud/
+
+JDBC API
+- http://tutorials.jenkov.com/jdbc/index.html
+- https://www.vogella.com/tutorials/MySQLJava/article.html
+- https://howtodoinjava.com/jdbc-tutorials/
+- https://www.journaldev.com/2483/java-jdbc-transaction-management-savepoint
+
+## 4. Hafta
+
+### Konu Başlıkları
+
+- Java I/O Operations in terms of Files
+- Java Concurrency and Multithreading Tutorial
+- SOLID Principles
+- Relational Database Management System & SQL
+- CAP Theorem
+- NoSQL
+- MongoDB
+- JDBC API
