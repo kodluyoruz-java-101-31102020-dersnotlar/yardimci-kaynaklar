@@ -1,32 +1,65 @@
-# OOP Resources
+final keyword in Java
+- https://www.baeldung.com/java-final
+- https://www.geeksforgeeks.org/final-keyword-java/
 
-Basic OOP Principles
-- https://www.javatpoint.com/java-oops-concepts
+Enum data structure in Java
+- https://www.baeldung.com/a-guide-to-java-enums
+- https://www.geeksforgeeks.org/enum-in-java/
+- http://tutorials.jenkov.com/java/enums.html
 
-Official Documents from Oracle for OOP
-- https://docs.oracle.com/javase/tutorial/java/concepts/index.html
+Generics in Java
+- https://www.baeldung.com/java-generics
+- https://howtodoinjava.com/java/generics/complete-java-generics-tutorial/
+- http://tutorials.jenkov.com/java-generics/index.html
 
-OOP Tutorial
-- http://www.java2s.com/Tutorials/Java/Java_Object_Oriented_Design/index.htm
+Java Collection Framework
+- http://tutorials.jenkov.com/java-collections/index.html
+- https://howtodoinjava.com/java-collections/
 
-OOP (Recommended)
-- https://www.oodesign.com/
+Iterator & Iterable Interfaces
+- https://www.geeksforgeeks.org/java-implementing-iterator-and-iterable-interface/
+- http://tutorials.jenkov.com/java-collections/iterable.html
 
-Master Object Oriented Design in Java - Homework + Solutions
-- https://www.udemy.com/course/mastering-object-oriented-design-in-java/
+Comparator & Comparable Interfaces
+- https://www.baeldung.com/java-comparator-comparable
+- http://tutorials.jenkov.com/java-collections/comparator.html
 
-Java Exception Management
-- https://www.baeldung.com/java-exceptions
+Anonymous Classes in Java
+- https://www.baeldung.com/java-anonymous-classes
+- https://www.geeksforgeeks.org/anonymous-inner-class-java/
+
+Java8 Lambda Expressions
+- https://www.baeldung.com/java-8-lambda-expressions-tips
+- https://howtodoinjava.com/java8/lambda-expressions/
+
+Java 8 Functional Interfaces
+- https://howtodoinjava.com/java8/functional-interface-tutorial/
+- http://tutorials.jenkov.com/java-functional-programming/functional-interfaces.html
+- https://www.baeldung.com/java-8-functional-interfaces
+
+Java 8 Method Reference
+- https://howtodoinjava.com/java8/lambda-method-references-example/
+- https://www.baeldung.com/java-method-references
+
+Java 8 Stream API
+- https://www.baeldung.com/java-8-streams
+- https://stackify.com/streams-guide-java-8/
+- http://tutorials.jenkov.com/java-functional-programming/streams.html
+- https://howtodoinjava.com/java8/java-streams-by-examples/
+
 
 
 ## 3. Hafta
 
 ### Konu Başlıkları
 
-- OOP Definitions
-- Class, Object definitions
-- Inheritance Types
-- Abstraction in Java
-- Encapsulation in Java
-- Polymorphism in Java
-- Exception Handling in Java
+- final keyword and application fields
+- Enum data structure in Java
+- Generics in Java
+- Iterator & Iterable Interfaces
+- Comparator & Comparable Interfaces
+- Anonymous Classes in Java
+- Java8 Lambda Expressions
+- Java 8 Functional Interfaces
+- Java 8 Method Reference
+- Java 8 Stream API
