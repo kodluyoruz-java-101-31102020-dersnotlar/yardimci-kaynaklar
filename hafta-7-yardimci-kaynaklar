@@ -28,6 +28,10 @@ SOAP Web Services
 - https://howtodoinjava.com/spring-boot/spring-boot-soap-webservice-example/
 - https://howtodoinjava.com/spring-boot/spring-soap-client-webservicetemplate/
 
+Chrome extension for SOAP Test
+boomerangapi.com
+
+
 ## 7. Hafta
 
 ### Konu Başlıkları
@@ -39,3 +43,5 @@ SOAP Web Services
 - Java Servlet & Filter
 - Java Server Page
 - Java Server Faces
+- SOAP Webservice with Spring
+- Servlet, JSF, JSP, Thymeleaf integration with Spring
