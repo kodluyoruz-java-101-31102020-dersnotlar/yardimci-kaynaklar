@@ -47,6 +47,8 @@ Java 8 Stream API
 - http://tutorials.jenkov.com/java-functional-programming/streams.html
 - https://howtodoinjava.com/java8/java-streams-by-examples/
 
+Reflection in Java:
+- http://tutorials.jenkov.com/java-reflection/index.html
 
 
 ## 3. Hafta
@@ -63,3 +65,4 @@ Java 8 Stream API
 - Java 8 Functional Interfaces
 - Java 8 Method Reference
 - Java 8 Stream API
+- Reflection in Java
